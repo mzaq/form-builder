@@ -1,6 +1,6 @@
 ## Form Builder
 
-Simple React front-end project that mimics behaviour of a more robust app in which user could build complex forms including conditional subinputs, generate the form markup, take a look at a preview etc.
+Simple React front-end project that mimics behaviour of a more robust app in which user could build complex forms including conditional subinputs, generate the form markup, take a look at a form preview etc.
 
 #### Here you can:
 
@@ -9,7 +9,7 @@ Simple React front-end project that mimics behaviour of a more robust app in whi
 
 #### Functionalities:
 
-- inputs dynamic offsset
+- inputs dynamic offset
 - focusing single input highlights it's parent and it's direct childs
 
 ---
